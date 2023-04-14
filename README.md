@@ -7,7 +7,7 @@ This is an example of a README file that could be used to expand upon the replic
 
 In addition to the original replication materials as provided by the authors, this set of replication materials includes a robustness check on a set of main results.
 
-\textbf{Citation:} Auriol, E., Lassébie, J., Panin, A., Raiber, E., Seabright, P. (2020). "God Insures those Who Pay? Formal Insurance and Religious Offerings in Ghana," \emph{The Quarterly Journal of Economics}, 135(4): 1799–1848, <https://doi.org/10.1093/qje/qjaa015>.
+**Citation**: Auriol, E., Lassébie, J., Panin, A., Raiber, E., Seabright, P. (2020). "God Insures those Who Pay? Formal Insurance and Religious Offerings in Ghana," \emph{The Quarterly Journal of Economics}, 135(4): 1799–1848, <https://doi.org/10.1093/qje/qjaa015>.
 
 
 ## Data Availability 
@@ -26,7 +26,7 @@ In addition to the original replication materials as provided by the authors, th
 
 ## Software Requirements
 
-The replication materials were run using \textbf{R 4.2.2}.
+The replication materials were run using **R 4.2.2**.
 
 Necessary packages to install in R:
 
