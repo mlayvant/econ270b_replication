@@ -3,11 +3,11 @@ Replication of Auriol et al. (2020)
 
 # Overview
 
-This is an example of a README file that could be used to expand upon the replication materials of Auriol et al. (2020). The `main.R` file of the replication materials calls upon 8 additionl R scripts, which is then used to generate all of the main figures and tables for the paper and supplementary appendix. \emph{However}, it appears that the posted replication code is missing a necessary data output, and thus one of the files is unable to run. As a result, the replicator should run only 7 of the R scripts and exclude `1d_run_and_format_heterogeneity_regressions.R`. Upon changing filepaths, the replicator should expect this code to take less than 5 minutes to run in total.
+This is an example of a README file that could be used to expand upon the replication materials of Auriol et al. (2020). The `main.R` file of the replication materials calls upon 8 additionl R scripts, which is then used to generate all of the main figures and tables for the paper and supplementary appendix. *However*, it appears that the posted replication code is missing a necessary data output, and thus one of the files is unable to run. As a result, the replicator should run only 7 of the R scripts and exclude `1d_run_and_format_heterogeneity_regressions.R`. Upon changing filepaths, the replicator should expect this code to take less than 5 minutes to run in total.
 
 In addition to the original replication materials as provided by the authors, this set of replication materials includes a robustness check on a set of main results.
 
-**Citation**: Auriol, E., Lassébie, J., Panin, A., Raiber, E., Seabright, P. (2020). "God Insures those Who Pay? Formal Insurance and Religious Offerings in Ghana," \emph{The Quarterly Journal of Economics}, 135(4): 1799–1848, <https://doi.org/10.1093/qje/qjaa015>.
+**Citation**: Auriol, E., Lassébie, J., Panin, A., Raiber, E., Seabright, P. (2020). "God Insures those Who Pay? Formal Insurance and Religious Offerings in Ghana," *The Quarterly Journal of Economics*, 135(4): 1799–1848, <https://doi.org/10.1093/qje/qjaa015>.
 
 
 ## Data Availability 
